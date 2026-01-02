@@ -52,3 +52,8 @@ AI Fill uses an optional LaMa inpainting model downloaded on demand. Once downlo
 
 ## Credits
 Created by **YesItsKira**.
+
+
+I dont charge for any of my projects and make them free for the communities they are in. If you like my stuff, id appreciate a tip!
+
+https://ko-fi.com/yesitskira
